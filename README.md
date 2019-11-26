@@ -1,12 +1,7 @@
 # TN Webserver
 TODO:A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
 
-# Table of Contents
-TODO: Optionally, include a table of contents in order to allow other people to quickly naviagte especially long or detailed READMEs.
-
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 To Setup a webserver you will need
 * Ruby >= 2.4.0
