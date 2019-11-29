@@ -4,7 +4,7 @@ TODO:A description of your project follows. A good description is clear, short, 
 ## Getting Started
 ### Prerequisites
 To Setup a webserver you will need
-* Ruby >= 2.4.0
+* Node.js >= 0.10.1
 
 ## Usage
 TODO: The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
