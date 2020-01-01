@@ -9,6 +9,7 @@ function WebServer(app, port = 3000) {
         console.log("Server listening on port " + port);
     }
     server.listen(port, onListen);
+    return server;
 }
 
 module.exports = WebServer;
