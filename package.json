@@ -1,6 +1,6 @@
 {
   "name": "tn-webserver",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Node Http web server setup used by Tumble Network",
   "main": "src/server.js",
   "directories": {
